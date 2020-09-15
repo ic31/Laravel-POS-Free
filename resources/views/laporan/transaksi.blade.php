@@ -16,7 +16,7 @@
                 <div class="card-body">
                     <div class="row">
                         <div class="col-sm-6">
-                              <table width="100%" class="table table-borderless">
+                            <table width="100%" class="table table-borderless">
                                 <tr>
                                     <td width="38%" class="font-weight-bold">Invoices Number</td>
                                     <td width="2%" class="font-weight-bold">:</td>
